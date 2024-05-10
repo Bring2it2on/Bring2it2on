@@ -56,7 +56,6 @@
   </a>
   <a href="https://www.instagram.com/bring_it_on.j/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 
   </a>
 </div>
