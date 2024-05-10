@@ -71,4 +71,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bring2it2on&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<div align="center">
 <img src="https://github.com/Bring2it2on/Bring2it2on/blob/output/github-snake.svg" width="100%">
+</div>
